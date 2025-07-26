@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Harpe\\Desktop\\NET9\\MethodsExercise\\",
+  "WorkspaceRootPath": "C:\\Users\\black\\OneDrive\\Desktop\\repos\\MethodsExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|c:\\users\\harpe\\desktop\\net9\\methodsexercise\\methodsexercise\\methodsexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|solutionrelative:methodsexercise\\methodsexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|c:\\users\\black\\onedrive\\desktop\\repos\\methodsexercise\\methodsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|solutionrelative:methodsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|c:\\users\\harpe\\desktop\\net9\\methodsexercise\\methodsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|solutionrelative:methodsexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|c:\\users\\black\\onedrive\\desktop\\repos\\methodsexercise\\methodsexercise\\methodsexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1E58B2C-8F43-4CBE-81ED-547128E6AD3E}|MethodsExercise\\MethodsExercise.csproj|solutionrelative:methodsexercise\\methodsexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,23 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MethodsExercise",
-              "DocumentMoniker": "C:\\Users\\Harpe\\Desktop\\NET9\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+              "DocumentIndex": 1,
+              "Title": "MethodsExercise.csproj",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
               "RelativeDocumentMoniker": "MethodsExercise\\MethodsExercise.csproj",
-              "ToolTip": "C:\\Users\\Harpe\\Desktop\\NET9\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
               "RelativeToolTip": "MethodsExercise\\MethodsExercise.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -43,26 +35,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Harpe\\Desktop\\NET9\\MethodsExercise\\MethodsExercise\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\Program.cs",
               "RelativeDocumentMoniker": "MethodsExercise\\Program.cs",
-              "ToolTip": "C:\\Users\\Harpe\\Desktop\\NET9\\MethodsExercise\\MethodsExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\Program.cs",
               "RelativeToolTip": "MethodsExercise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T22:20:44.068Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 266,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
